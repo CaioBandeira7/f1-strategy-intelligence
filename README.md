@@ -144,7 +144,7 @@ Seven pages in three groups: Executive, Technical Analysis and Strategy Simulato
 | **1 · Overview**<br/>![](assets/dashboard/01-overview.png) | **2 · Data & Quality**<br/>![](assets/dashboard/02-data-quality.png) |
 | **3 · Tyre Degradation**<br/>![](assets/dashboard/03-tyre-degradation.png) | **4 · Model Validation**<br/>![](assets/dashboard/04-model-validation.png) |
 | **5 · Simulator 2024 (in-sample)**<br/>![](assets/dashboard/05-simulator-2024.png) | **6 · Simulator 2025 (retrospective)**<br/>![](assets/dashboard/06-simulator-2025.png) |
-| **7 · Method & Limitations**<br/>![](assets/dashboard/07-method-limitations.png) | PDF export: [reports/F1_Strategy_Intelligence_2023_2025.pdf](reports/F1_Strategy_Intelligence_2023_2025.pdf) |
+| **7 · Method & Limitations**<br/>![](assets/dashboard/07-method-limitations.png) | 
 
 ## Architecture
 
